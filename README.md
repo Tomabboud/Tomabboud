@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tom  🚀</div>  
+ 
   
 
 - 🚀 I recently finished the Data Analytics bootcamp in Le Wagon   
