@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-- 🔭 I recently finished a **2-months intensive bootcamp in le Wagon in Data Analytics**
 
-- 👨‍💻 I am coding in **Python & SQL**
+- 🔭 I recently finished a 2-months intensive bootcamp in le Wagon in Data Analytics
 
-- 🤝 I am looking for a **project to enhance my technical skills !**
+- 👨‍💻 I am coding in Python & SQL
+
+- 🤝 I am looking for a project to enhance my technical skills !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
